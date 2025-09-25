@@ -14,6 +14,8 @@ For example, if a vehicle is blocking a bus stop (a mobile bus stop violation), 
 
 For the Queens Bus Route Redesign (QBRR), the main changes to the **Q5** route were stop removals.  
 
-<img width="560" height="415" alt="Screenshot 2025-09-24 at 11 03 01 PM" src="https://github.com/user-attachments/assets/8c0ba41c-a360-49c7-9a02-a9bd977d9af3" />
+<p align="center">
+  <img width="560" height="415" alt="Screenshot 2025-09-24 at 11 03 01 PM" src="https://github.com/user-attachments/assets/8c0ba41c-a360-49c7-9a02-a9bd977d9af3" />
 
-<img width="920" height="490" alt="Screenshot 2025-09-24 at 11 03 25 PM" src="https://github.com/user-attachments/assets/47afd7c8-35d0-46f6-be75-1ea12fbbecc7" />
+  <img width="920" height="490" alt="Screenshot 2025-09-24 at 11 03 25 PM" src="https://github.com/user-attachments/assets/47afd7c8-35d0-46f6-be75-1ea12fbbecc7" />
+</p>
