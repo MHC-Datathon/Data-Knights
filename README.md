@@ -91,5 +91,11 @@ There are two main limitations we would like to address:
    - Unfortunately, to perform the speed analysis we envisioned, we would need both *speed data* and *violation data* from before and after the redesign.  
    - The Bx36 did not have sufficient violation data, especially from before the redesign, making this analysis infeasible.
 
+## Sources
 
+- [MTA ACE Violation Data](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm)  
+- [NYPD Traffic Data (TrafficStat)](https://www.nyc.gov/site/nypd/stats/traffic-data/traffic-data-trafficstat.page)  
+- [Bronx Local Bus Network Redesign Project](https://www.mta.info/project/bronx-local-bus-network-redesign)  
+- [Queens Bus Network Redesign Project](https://www.mta.info/project/queens-bus-network-redesign)  
+- [Kepler Map Visualization](https://kepler.gl/)  
 
