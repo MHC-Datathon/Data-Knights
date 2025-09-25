@@ -69,10 +69,27 @@ The changes to the Q5 and Q58 routes show us that the frequency of ACE violation
   <em>Figure: Q58 Violations Before Redesign</em>
   <img width="1420" height="733" alt="kepler gl (3)" src="https://github.com/user-attachments/assets/90ef3af2-f77f-44dc-94ca-0c4097028c25" />
   <em>Figure: Q58 Violations After Redesign</em>
+</p>
 
 The decrease in violations to the Q58 could be due to several reasons. One possible reason is that with the introduction of the Q98, there is less congestion traffic wise later in the Q58’s route (specifically after Grand ave), as that is where the Q98’s route differs from the Q58’s route. The other potential reason will be discussed in the limitations section. 
 
-Overall, we recommend that for future bus route redesigns, stops that have more recorded ACE violations be considered for removal. Specifically, if the stop with more ACE violations is one that is not in a frequently trafficked area, or one that is reasonably close to other stops, then it should be removed to improve the overall speed of the buses. 
+Overall, we recommend that for future bus route redesigns, stops that have more recorded ACE violations be considered for removal. Specifically, if the stop with more ACE violations is one that is not in a frequently trafficked area, or one that is reasonably close to other stops, then it should be removed to improve the overall speed of the buses.
+
+## Limitations
+
+There are two main limitations we would like to address:
+
+1. **Q58 Data Ambiguity**  
+   One reason why the Q58 may have had such a drastic decrease in violations could be due to the ACE data **lumping together violations from both the Q58 and Q58 Limited buses**.  
+   - If this is the case, the observed decrease may simply result from the discontinuation of the Q58 Limited.  
+   - To elaborate: if the ACE data included the Q58 Limited, then removing that service would also remove its violation records.  
+   - Since there was no way for us to check if this distinction was made — and because there is no ACE data labeled for the Q98 — we cannot say with certainty whether the discontinuation of the Q58 Limited affected our results.
+
+2. **Lack of Speed and Frequency Data**  
+   Another dataset we wanted to include was the **change in bus speed and frequency before and after the redesign**. However, since the Queens redesign is so recent, such data was not available.  
+   - We instead looked at the Bronx Bus Redesign (completed in 2022). According to the project archive, the only bus included in both the redesign and the ACE program was the **Bx36**.  
+   - Unfortunately, to perform the speed analysis we envisioned, we would need both *speed data* and *violation data* from before and after the redesign.  
+   - The Bx36 did not have sufficient violation data, especially from before the redesign, making this analysis infeasible.
 
 
-</p>
+
